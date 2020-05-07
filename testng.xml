@@ -7,7 +7,7 @@
 			<class name="Academy.validateNavigation" />
 		</classes>
 	</test>
-	
+
 	<test name="Validating user Login">
 		<classes>
 			<class name="Academy.HomePage" />
